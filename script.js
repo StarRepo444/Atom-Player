@@ -12,7 +12,7 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = ['Runaway','Touch The Sky','Not Like Us', 'We Major', 'Celebration', 'N95', 'Ghost Town', 'Graduation [Album]', 'Placeholder', 'Placeholder', 'Placeholder', 'Placeholder',];
+const songs = ['Runaway','Touch The Sky','Not Like Us', 'We Major', 'Celebration', 'N95', 'Ghost Town', 'FullKanye', 'Placeholder', 'Placeholder', 'Placeholder', 'Placeholder',];
 
 // Keep track of song
 let songIndex = 2;
